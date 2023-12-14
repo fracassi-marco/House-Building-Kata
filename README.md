@@ -19,7 +19,7 @@ Our building tool is able to build only houses. We need to extend it to be able 
    - has no pillars
    - is not painted
    - has only one floor
-   - has a bird stand, when building the stand, we need to print ```System.out.println(name + ": Building bird stand...");```
+   - has a bird stand, before build the roof we have to build the stand, we need to print ```System.out.println(name + ": Building bird stand...");```
 
 ## Questions
 1. What are the problems with the "template method" implementation?
